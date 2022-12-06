@@ -47,7 +47,7 @@ function App() {
         <YouTubeComponent 
         thumbnailImg= {Element.thumbnailImg}
         videoTitle= {Element.videoTitle}
-        videoUploader= {Element.videoUploaded}
+        videoUploader= {Element.videoUploader}
         dateVideoUploaded= {Element.dateVideoUploaded}
         videoViews= {Element.videoViews}
         />
